@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Nvidia NV1",
+        "year": "1995",
+        "description": "The Nvidia NV1, manufactured by SGS-Thomson Microelectronics under the model name STG2000, was a multimedia PCI card released in May 1995. It was sold to retail by Diamond as the Diamond Edge 3D. The NV1 featured a complete 2D/3D graphics core based upon quadratic texture mapping, VRAM or FPM DRAM memory, an integrated 32-channel 350 MIPS playback-only sound card, and a Sega Saturn compatible joypad port. As such, it was intended to replace the 2D graphics card, Sound Blaster-compatible audio systems, and 15-pin joystick ports, then prevalent on IBM PC compatibles. Putting all of this functionality on a single card led to significant compromises, and the NV1 was not very successful in the market. A modified version, the NV2, was developed in partnership with Sega for the Sega Dreamcast, but ultimately dropped. Nvidia's next stand-alone product, the RIVA 128, focussed entirely on 2D and 3D performance and was much more successful.",
+        "img": "https://tpucdn.com/gpu-specs/images/c/2015-front.jpg"
+    },
+    {
+        "name": "Nvidia RIVA 128",
+        "year": "1997",
+        "description": "Released in August 1997 by Nvidia, the RIVA 128, or 'NV3', was one of the first consumer graphics processing units to integrate 3D acceleration in addition to traditional 2D and video acceleration. Its name is an acronym for Real-time Interactive Video and Animation accelerator. Following the less successful 'NV1' accelerator, the RIVA 128 was the first product to gain Nvidia widespread recognition. It was also a major change in technological direction for Nvidia.",
+        "img": "https://tpucdn.com/gpu-specs/images/c/1307-front.jpg"
+    },
+    {
+        "name": "Nvidia RIVA TNT",
+        "year": "1998",
+        "description": "The RIVA TNT, codenamed NV4, is a 2D, video, and 3D graphics accelerator chip for PCs that was developed by Nvidia. It was released in mid-1998 and cemented Nvidia's reputation as a worthy rival within the developing consumer 3D graphics adapter industry. The first RIVA TNT based card was released on June 15, 1998 by STB Systems: Velocity 4400. RIVA is an acronym for Real-time Interactive Video and Animation accelerator. The 'TNT' suffix refers to the chip's ability to work on two texels at once (TwiN Texel).",
+        "img": "https://tpucdn.com/gpu-specs/images/c/1308-front.jpg"
+    },
+    {
+        "name": "Nvidia RIVA TNT2",
+        "year": "1999",
+        "description": "The RIVA TNT2 is a graphics processing unit manufactured by Nvidia starting in early 1999. The chip is codenamed 'NV5' because it is the 5th graphics chip design by Nvidia, succeeding the RIVA TNT (NV4). RIVA is an acronym for Real-time Interactive Video and Animation accelerator. The 'TNT' suffix refers to the chip's ability to work on two texels at once (<strong>T</strong>wi<strong>N</strong> <strong>T</strong>exel). Nvidia removed RIVA from the name later in the chip's lifetime.",
+        "img": "https://tpucdn.com/gpu-specs/images/c/1310-front.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE 256",
+        "year": "2000",
+        "description": "The GeForce 256 is the original release in Nvidia's ‘GeForce’ product-line. Announced on September 1, 1999 and released on October 11, 1999, the GeForce 256 improves on its predecessor (RIVA TNT2) by increasing the number of fixed pixel pipelines, offloading host geometry calculations to a hardware transform and lighting (T&L) engine, and adding hardware motion compensation for MPEG-2 video. It offered a notably large leap in 3D PC gaming performance and was the first fully Direct3D 7-compliant 3D accelerator. The chip was manufactured by TSMC using its 220 nm CMOS process. There are two versions of the GeForce 256 – the SDR version released in October 1999 and the DDR version released in late December 1999 – each with a different type of SDRAM memory. The SDR version uses SDR SDRAM memory from Samsung Electronics, while the later DDR version uses DDR SDRAM memory from Hyundai Electronics (now SK Hynix).",
+        "img": "https://banner2.cleanpng.com/20180430/ekw/kisspng-graphics-cards-video-adapters-graphics-processin-5ae7a62e0af642.1300068915251307980449.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE2 ULTRA",
+        "year": "2000",
+        "description": "The GeForce 2 family comprised a number of models: GeForce 2 GTS, GeForce 2 Pro, GeForce 2 Ultra, GeForce 2 Ti, GeForce 2 Go and the GeForce 2 MX series. In addition, the GeForce 2 architecture is used for the Quadro series on the Quadro 2 Pro, 2 MXR, and 2 EX cards with special drivers meant to accelerate computer-aided design applications.",
+        "img": "https://lh3.googleusercontent.com/proxy/PqvU_6Mdxzc9GshlPEJ46kfibGZcbZbAY_xPsYJh2Api7PNUV5xbI_VzWkw9saGanhtXw1LxykhJzSe9eahItdBuMQ0glQseb0ibd3wPwV3sBKEUgo6GAKrrvMqFk7iFemLbZzC-bQgk8LQyyA"
+    },
+    {
+        "name": "Nvidia GEFORCE3 TI 500",
+        "year": "2001",
+        "description": "The GeForce 3 (NV20) is the third generation of NVIDIA's GeForce graphics processing units. Introduced in February 2001, it advanced the GeForce architecture by adding programmable pixel and vertex shaders, multisample anti-aliasing and improved the overall efficiency of the rendering process. The GeForce 3 was unveiled during the 2001 Macworld Conference & Expo/Tokyo 2001 in Makuhari Messe and powered realtime demos of Pixar's Junior Lamp and id Software's Doom 3. Apple would later announce launch rights for its new line of computers. The GeForce 3 family comprises 3 consumer models: the GeForce 3, the GeForce 3 Ti200, and the GeForce 3 Ti500. A separate professional version, with a feature-set tailored for computer aided design, was sold as the Quadro DCC. A derivative of the GeForce 3, known as the NV2A, is used in the Microsoft Xbox game console.",
+        "img": "https://i.ytimg.com/vi/a3wFbMv7xIU/maxresdefault.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE4 TI 4600",
+        "year": "2002",
+        "description": "The GeForce4 refers to the fourth generation of GeForce-branded graphics processing units (GPU) manufactured by Nvidia. There are two different GeForce4 families, the high-performance Ti family, and the budget MX family. The MX family spawned a mostly identical GeForce4 Go (NV17M) family for the laptop market. All three families were announced in early 2002; members within each family were differentiated by core and memory clock speeds. In late 2002, there was an attempt to form a fourth family, also for the laptop market, the only member of it being the GeForce4 4200 Go (NV28M) which was derived from the Ti line.",
+        "img": "https://images.anandtech.com/reviews/video/roundups/2002/05/gf4tiroundup/visiontek4400f.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE FX 5950 ULTRA",
+        "year": "2003",
+        "description": "GeForce FX is an architecture designed with DirectX 7, 8 and 9 software in mind. Its performance for DirectX 7 and 8 was not even close to ATI's competing products with the mainstream versions of the chips, and somewhat faster in the case of the 5900 and 5950 models, but it is much less competitive across the entire range for software that primarily uses DirectX 9 features. Its weak performance in processing Shader Model 2 programs is caused by several factors. The NV3x design has less overall parallelism and calculation throughput than its competitors.[11] It is more difficult, compared to GeForce 6 and ATI Radeon R300 series, to achieve high efficiency with the architecture due to architectural weaknesses and a resulting heavy reliance on optimized pixel shader code. While the architecture was compliant overall with the DirectX 9 specification, it was optimized for performance with 16-bit shader code, which is less than the 24-bit minimum that the standard requires. When 32-bit shader code is used, the architecture's performance is severely hampered. Proper instruction ordering and instruction composition of shader code is critical for making the most of the available computational resources.",
+        "img": "https://cdn.videocardz.net/cache/71d8eca9ec9083aacff4580a6f808713-1200x900.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE 6800 ULTRA",
+        "year": "2004",
+        "description": "The first family in the GeForce 6 product-line, the 6800 series catered to the high-performance gaming market. As the very first GeForce 6 model, the 16 pixel pipeline GeForce 6800 Ultra (NV40) was 2 to 2.5 times faster than Nvidia's previous top-line product (the GeForce FX 5950 Ultra), packed four times the number of pixel pipelines, twice the number of texture units and added a much improved pixel-shader architecture. Yet, the 6800 Ultra was fabricated on the same (IBM) 130 nanometer process node as the FX 5950, and it consumed slightly less power.",
+        "img": "https://www.guru3d.com/miraserver/images/reviews/videocard/nv40/front.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE 7900 GTX",
+        "year": "2006",
+        "description": "The GeForce 7800 GTX (codenamed G70, and previously NV47) was the first GPU in the series, launched on June 22, 2005 with immediate retail availability. The GeForce 7800 GTX supported the highest specification DirectX 9 vertex and pixel shaders, at the time: Version 3.0. It was natively a PCI Express chip. SLI support had been retained and improved from the previous generation. According to PC World, the 7800 GTX was 'one of the most complex processors ever designed'. The GPU had 302 million transistors (the Athlon 64 X2 4800+ CPU has 233.2 million transistors), along with 24 pixel and 8 vertex shaders. It was succeeded by the 7900 GTX on March 9, 2006. The GeForce 7900 GTX is a 90 nm produced G70 (named G71) and features all the same features of the 7800 GTX but is built upon the smaller manufacturing process. Due to shortages of memory modules for the 512 MB GTX, more readily available 1600 MHz memory was used.",
+        "img": "https://tpucdn.com/gpu-specs/images/c/154-front.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE 8800 ULTRA",
+        "year": "2007",
+        "description": "The 8800 GTX is equipped with 768 MB GDDR3 RAM. The 8800 series replaced the GeForce 7950 Series as NVIDIA's top-performing consumer GPU. GeForce 8800 GTX and GTS use identical GPU cores, but the GTS model disables parts of the GPU and reduces RAM size and bus width to lower production cost. At the time, the G80 was the largest commercial GPU ever constructed. It consists of 681 million transistors covering a 480 mm² die surface area built on a 90 nm process. (In fact the G80's total transistor count is ~686 million, but since the chip was made on a 90 nm process and due to process limitations and yield feasibility, NVIDIA had to break the main design into two chips: Main shader core at 681 million transistors and NV I/O core of about ~5 million transistors making the entire G80 design standing at ~686 million transistors).",
+        "img": "https://img.hexus.net/v2/graphics_cards/nvidia/8800U/IMG_4842-big.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE 9800 GTX",
+        "year": "2008",
+        "description": "The GeForce 9 series is the ninth generation of NVIDIA's GeForce series of graphics processing units, the first of which was released on February 21, 2008. Products are based on a slightly repolished Tesla microarchitecture, adding PCIe 2.0 support, improved color and z-compression, and built on a 65 nm process, later using 55 nm process to reduce power consumption and die size (GeForce 8 G8x GPUs only supported PCIe 1.1 and were built on 90 nm process or 80 nm process). The GeForce 9800 series contains the GX2 (dual GPU), GTX, GTX+ and GT variants. On April 1, 2008, the GeForce 9800 GTX was officially launched.",
+        "img": "https://lh3.googleusercontent.com/proxy/Md-JuBtL_nhFgMBARIYFl2jnejPs4LRA1NU_6fYnb4I0x5HVrv9FE_wZn8l_3ete3CfEeaBuWuRRmgxOddPpnn75WLmBi7iX63LAg8-2UqogjV4y03faYbai6gE85-JDGerxbuAxUfviyB1Ltikl3so"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 295",
+        "year": "2009",
+        "description": "The GeForce 200 Series introduced Nvidia's second generation of Tesla (microarchitecture), Nvidia's unified shader architecture; the first major update to it since introduced with the GeForce 8 Series. The GeForce 200 series GPUs (GT200a/b GPU), excluding GeForce GTS 250, GTS 240 GPUs (these are older G92b GPUs), have double precision support for use in GPGPU applications. GT200 GPUs also have improved performance in geometry shading.  As of August 2018, the GT200 is the seventh largest commercial GPU ever constructed, consisting of 1.4 billion transistors covering a 576 mm2 die surface area built on a 65 nm process. It is the fifth largest CMOS-logic chip that has been fabricated at the TSMC foundry. The GeForce 400 Series have since superseded the GT200 chips in transistor count, but the original GT200 dies still exceed the GF100 die size. It is larger than even the Kepler-based GK210 GPU used in the Tesla K80, which has 7.1 billion transistors on a 561 mm2 die manufactured in 28 nm.The Ampere GA100 is currently the largest commercial GPU ever fabricated at 826 mm2 with 54.2 billion transistors.",
+        "img": "https://www.techpowerup.com/img/09-01-05/imageview.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 480",
+        "year": "2010",
+        "description": "The GeForce GTX 480 was a high-end graphics card by NVIDIA, launched in March 2010. Built on the 40 nm process, and based on the GF100 graphics processor, in its GF100-375-A3 variant, the card supports DirectX 12. Even though it supports DirectX 12, the feature level is only 11_0, which can be problematic with newer DirectX 12 titles. The GF100 graphics processor is a large chip with a die area of 529 mm² and 3,100 million transistors. Unlike the fully unlocked GeForce GTX 480 Core 512, which uses the same GPU but has all 512 shaders enabled, NVIDIA has disabled some shading units on the GeForce GTX 480 to reach the product's target shader count. It features 480 shading units, 60 texture mapping units, and 48 ROPs. NVIDIA has paired 1,536 MB GDDR5 memory with the GeForce GTX 480, which are connected using a 384-bit memory interface. The GPU is operating at a frequency of 701 MHz, memory is running at 924 MHz (3.7 Gbps effective). Being a dual-slot card, the NVIDIA GeForce GTX 480 draws power from 1x 6-pin + 1x 8-pin power connector, with power draw rated at 250 W maximum. Display outputs include: 2x DVI, 1x mini-HDMI. GeForce GTX 480 is connected to the rest of the system using a PCI-Express 2.0 x16 interface. The card measures 267 mm in length, and features a dual-slot cooling solution. Its price at launch was 499 US Dollars.",
+        "img": "https://images.anandtech.com/reviews/video/NVIDIA/GTX480/470card.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 590",
+        "year": "2011",
+        "description": "The GeForce GTX 590 was an enthusiast-class graphics card by NVIDIA, launched in March 2011. Built on the 40 nm process, and based on the GF110 graphics processor, in its GF110-351-A1 variant, the card supports DirectX 12. Even though it supports DirectX 12, the feature level is only 11_0, which can be problematic with newer DirectX 12 titles. The GF110 graphics processor is a large chip with a die area of 520 mm² and 3,000 million transistors. GeForce GTX 590 combines two graphics processors to increase performance. It features 512 shading units, 64 texture mapping units, and 48 ROPs, per GPU. NVIDIA has paired 3,072 MB GDDR5 memory with the GeForce GTX 590, which are connected using a 384-bit memory interface per GPU (each GPU manages 1,536 MB). The GPU is operating at a frequency of 608 MHz, memory is running at 854 MHz (3.4 Gbps effective). Being a dual-slot card, the NVIDIA GeForce GTX 590 draws power from 2x 8-pin power connectors, with power draw rated at 365 W maximum. Display outputs include: 3x DVI, 1x mini-DisplayPort. GeForce GTX 590 is connected to the rest of the system using a PCI-Express 2.0 x16 interface. The card's dimensions are 279 mm x 111 mm x 40 mm, and it features a dual-slot cooling solution. Its price at launch was 699 US Dollars.",
+        "img": "https://www.evga.com/articles/00621/images/590_pic_air.png"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 690",
+        "year": "2012",
+        "description": "Combining the power of two Kepler GPUs, the GeForce GTX 690 is the fastest graphics card ever built. The GTX 690 uses hardware based frame metering for smooth, consistent frame rates across both GPUs. A meticulously designed board with dual vapor chamber coolers ensure quiet operation.",
+        "img": "https://c1.neweggimages.com/ProductImage/14-130-781-10.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 780 TI",
+        "year": "2013",
+        "description": "The GeForce GTX 780 Ti was an enthusiast-class graphics card by NVIDIA, launched in November 2013. Built on the 28 nm process, and based on the GK110B graphics processor, in its GK110-425-B1 variant, the card supports DirectX 12. Even though it supports DirectX 12, the feature level is only 11_1, which can be problematic with newer DirectX 12 titles. The GK110B graphics processor is a large chip with a die area of 561 mm² and 7,080 million transistors. It features 2880 shading units, 240 texture mapping units, and 48 ROPs. NVIDIA has paired 3,072 MB GDDR5 memory with the GeForce GTX 780 Ti, which are connected using a 384-bit memory interface. The GPU is operating at a frequency of 875 MHz, which can be boosted up to 928 MHz, memory is running at 1753 MHz (7 Gbps effective). Being a dual-slot card, the NVIDIA GeForce GTX 780 Ti draws power from 1x 6-pin + 1x 8-pin power connector, with power draw rated at 250 W maximum. Display outputs include: 2x DVI, 1x HDMI, 1x DisplayPort. GeForce GTX 780 Ti is connected to the rest of the system using a PCI-Express 3.0 x16 interface. The card's dimensions are 267 mm x 111 mm x 38 mm, and it features a dual-slot cooling solution. Its price at launch was 699 US Dollars.",
+        "img": "https://www.asus.com/media/global/products/m0SE4pTmf7RSd4rJ/55LI92T2eCPVubU0_500.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 980 TI",
+        "year": "2015",
+        "description": "The GeForce GTX 980 Ti is a high-end graphics card by NVIDIA, launched in June 2015. Built on the 28 nm process, and based on the GM200 graphics processor, in its GM200-310-A1 variant, the card supports DirectX 12. This ensures that all modern games will run on GeForce GTX 980 Ti. The GM200 graphics processor is a large chip with a die area of 601 mm² and 8,000 million transistors. Unlike the fully unlocked GeForce GTX TITAN X, which uses the same GPU but has all 3072 shaders enabled, NVIDIA has disabled some shading units on the GeForce GTX 980 Ti to reach the product's target shader count. It features 2816 shading units, 176 texture mapping units, and 96 ROPs. NVIDIA has paired 6 GB GDDR5 memory with the GeForce GTX 980 Ti, which are connected using a 384-bit memory interface. The GPU is operating at a frequency of 1000 MHz, which can be boosted up to 1076 MHz, memory is running at 1753 MHz (7 Gbps effective). Being a dual-slot card, the NVIDIA GeForce GTX 980 Ti draws power from 1x 6-pin + 1x 8-pin power connector, with power draw rated at 250 W maximum. Display outputs include: 1x DVI, 1x HDMI, 3x DisplayPort. GeForce GTX 980 Ti is connected to the rest of the system using a PCI-Express 3.0 x16 interface. The card's dimensions are 267 mm x 111 mm x 40 mm, and it features a dual-slot cooling solution. Its price at launch was 649 US Dollars.",
+        "img": "https://www.guru3d.com/index.php?ct=articles&action=file&id=16024"
+    },
+    {
+        "name": "Nvidia GEFORCE GTX 1080 TI",
+        "year": "2017",
+        "description": "The GeForcebv GTX 1080 Ti is NVIDIA's new flagship gaming GPU, based on the NVIDIA Pascal architecture. The latest addition to the ultimate gaming platform, this card is packed with extreme gaming horsepower, next-gen 11 Gbps GDDR5X memory, and a massive 11 GB frame buffer. GeForce GTX 10-series graphics cards are powered by Pascal to deliver up to 3X the performance of previous-generation graphics cards, plus breakthrough gaming technologies and VR experiences. The GeForce GTX 1080 Ti graphics card gives you amazing speed and power efficiency.",
+        "img": "https://www.mvktech.net/wp-content/uploads/2018/06/EVGA-GeForce-GTX-1080-Ti.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE RTX 2080 TI",
+        "year": "2018",
+        "description": "The GeForce 20 series is a family of graphics processing units developed by Nvidia. Serving as the successor to the GeForce 10 series, the line started shipping on September 20, 2018, and after several editions, on July 2, 2019, the GeForce RTX Super line of cards was announced. The 20 series marked the introduction of Nvidia's Turing microarchitecture, and the first generation of RTX cards,  the first in the industry to implement realtime hardware ray tracing in a consumer product. In a departure from Nvidia's usual strategy, the 20 series doesn't have an entry level range, leaving it to the 16 series to cover this segment of the market. ",
+        "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6291/6291646_sd.jpg"
+    },
+    {
+        "name": "Nvidia GEFORCE RTX 3090",
+        "year": "2020",
+        "description": "The GeForce RTX™ 3090 is a big ferocious GPU (BFGPU) with TITAN class performance. It’s powered by Ampere—NVIDIA’s 2nd gen RTX architecture—doubling down on ray tracing and AI performance with enhanced Ray Tracing (RT) Cores, Tensor Cores, and new streaming multiprocessors. Plus, it features a staggering 24 GB of G6X memory, all to deliver the ultimate gaming experience.",
+        "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/nvidia_rtx_3080_rtx_3090_specifications_pricing.png"
+    }
+]
