@@ -1,0 +1,15 @@
+{% extends "base.html"%}
+{% block content%}
+
+<div class="row">
+	<div class="col-md-5">
+		<img src="{{ card.img }}" alt="Video Card image for {{card.name}}">
+		<h2 class="col-md-7">{{ card.name }}</h2>
+	</div>
+</div>
+<div class="col-md-12">
+	<small class="text-muted">{{ card.year }}</small>
+	<p>{{ card.description }}</p>
+</div>
+
+{% endblock %}

@@ -1,4 +1,54 @@
 {% extends 'base.html'%}
 {% block content %}
-    <h2>About Page</h2>    
+
+
+<h2>{{ page_title }}</h2>
+<p>
+	Nvidia Corporation is an American multinational technology company incorporated in Delaware and based in Santa
+	Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as
+	system on a chip units (SoCs) for the mobile computing and automotive market. Its primary GPU product line, labeled
+	"GeForce", is in direct competition with Advanced Micro Devices' (AMD) "Radeon" products. Nvidia expanded its
+	presence in the gaming industry with its handheld Shield Portable, Shield Tablet, and Shield Android TV.
+</p>
+<p>
+	Since 2014, Nvidia has diversified its business focusing on four markets: gaming, professional
+	visualization, data centers, and auto. Nvidia is also now focused on artificial intelligence.
+</p>
+<p>
+	In addition to GPU manufacturing, Nvidia provides parallel processing capabilities to researchers and scientists
+	that allow them to efficiently run high-performance applications. They are deployed in supercomputing sites around
+	the world.More recently, it has moved into the mobile computing market, where it produces Tegra mobile
+	processors for smartphones and tablets as well as vehicle navigation and entertainment systems. In addition
+	to AMD, its competitors include Intel and Qualcomm.
+</p>
+{% for card in cards %}
+<div class="row featurette">
+
+{% if loop.index % 2 != 0%}
+    <div class="col-md-7">
+        <h3><a href="/about/{{card.url}}">{{ loop.index }} {{ card.name }}</a></h3>
+        <small class="text-muted">{{ card.year }}</small>
+        <p>{{ card.description }}</p>
+    </div>
+    <div class="col-md-5">
+        <img src="{{ card.img }}" class="img-fluid featurette-image" alt="Video Card">
+    </div>
+</div>
+
+{% else %}
+    <div class="col-md-5">
+        <img src="{{ card.img }}" class="img-fluid featurette-image" alt="Video Card">
+    </div>
+    <div class="col-md-7">
+        <h3><a href="/about/{{card.url}}">{{ loop.index }} {{ card.name }}</a></h3>
+        <small class="text-muted">{{ card.year }}</small>
+        <p>{{ card.description }}</p>
+    </div>
+</div>
+
+{% endif %}
+{% if loop.index != loop.length %}
+<hr class="featurette-divider">
+{% endif%}
+{% endfor %}
 {% endblock%}
